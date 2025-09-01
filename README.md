@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ali-coder-crypto
-- 👀 I’m interested in develop stuff
-- 🌱 I’m currently learning FullStack
-
-I'm still trying to figure stuff out here, have mercy haha.
+- 👋 Hi, I’m Ali / Alex
+- 👀 I’m interested in building backend systems, APIs and secure applications 
+- 🌱 I began with **FullStack (HTML, CSS, JS, PHP, SQL)**, now switched to **C# / ASP.NET** 
+- 🧱 Project:[TaskManager]https://github.com/AliInTheLoop/TaskManager
+  - A console app that manage tasks  
