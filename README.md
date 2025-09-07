@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ali / Alex
 - 👀 I’m interested in building backend systems, APIs and secure applications 
 - 🌱 I began with **FullStack (HTML, CSS, JS, PHP, SQL)**, now switched to **C# / ASP.NET** 
-- 🧱 Project:[TaskManager]https://github.com/AliInTheLoop/TaskManager
-  - A console app that manage tasks  
+- 🧱 Project:[TaskManager] github.com/AliInTheLoop/TaskManager
+  - A console app that manage tasks
+- Also my linkedIn: linkedin.com/in/ali-builds
+  - Nothing special yet, but in the future surely 🙂   
