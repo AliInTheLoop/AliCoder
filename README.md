@@ -3,5 +3,5 @@
 - 🌱 I began with **FullStack (HTML, CSS, JS, PHP, SQL)**, now switched to **C# / ASP.NET** 
 - 🧱 Project:[TaskManager] github.com/AliInTheLoop/TaskManager
   - A console app that manage tasks
-- Also my linkedIn: linkedin.com/in/ali-builds
-  - Nothing special yet, but in the future surely 🙂   
+- Also my linkedIn: linkedin.com/in/ali-builds-225b7b377/
+  - Nothing special yet, a few Micorsoft learn online certificate's, but surely in the future there will be some cool stuff there 🙂
